@@ -1,0 +1,13 @@
+<type>: <short description>
+
+[Context]
+What was added / changed?
+
+[Reason]
+Why was this needed?
+
+[Scope]
+pages | tests | utils | framework | rag | docs
+
+[Impact]
+Does this affect framework behavior or only examples?
