@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+
+# IDE / Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs / Reports
+logs/
+*.log
+reports/
+htmlcov/
+coverage.xml
+
+# PyTest
+.cache/
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Selenium / Browser
+selenium-screenshots/
+screenshots/
